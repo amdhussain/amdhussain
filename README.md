@@ -34,3 +34,10 @@ I am a passionate Frontend Developer from Sylhet, Bangladesh. I love building us
 <a href="https://linkedin.com/in/md-hussain-ahmed-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+### 🌐 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/md-hussain-ahmed-dev" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amdhussain538@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_TIKTOK_URL" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
