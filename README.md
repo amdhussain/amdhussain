@@ -1,4 +1,4 @@
-# Hi there, I'm Md. Hussain Ahmed 👋
+ # Hi there, I'm Md. Hussain Ahmed 👋
 ### Frontend Web Developer | React Specialist
 
 ---
@@ -6,9 +6,8 @@
 ### 👤 About Me
 I am a passionate Frontend Developer from Sylhet, Bangladesh. I love building user-friendly web applications and exploring modern technologies.
 
-- 🔭 **Current Work:** Developing a Tourism Website.
+- 🔭 **Currently working on:** A Tourism Website project.
 - 🌱 **Learning:** Next.js and Advanced JavaScript.
-- 🚀 **Projects:** All my projects are live on **Netlify**.
 - 🎨 **Preference:** Clean coding and Dark mode interfaces.
 
 ---
@@ -23,16 +22,15 @@ I am a passionate Frontend Developer from Sylhet, Bangladesh. I love building us
 ---
 
 ### 📊 My GitHub Stats
-![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdhussain&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdhussain&layout=compact&theme=dark)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=amdhussain&show_icons=true&theme=dark" alt="Hussain's stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdhussain&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 ---
 
 ### 🌐 Social Links
 <a href="https://linkedin.com/in/md-hussain-ahmed-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
 </a>
